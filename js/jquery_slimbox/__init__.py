@@ -1,7 +1,7 @@
 from fanstatic import Library, Resource, GroupResource
 from js.jquery import jquery
 
-library = Library('slimbox', 'resources')
+library = Library('jquery_slimbox', 'resources')
 
 slimbox_css = Resource(library, 'css/slimbox2.css')
 
