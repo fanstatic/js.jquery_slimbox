@@ -1,0 +1,7 @@
+CHANGES
+*******
+
+2.04 (unreleased)
+===============================
+
+- Initial release.
